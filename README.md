@@ -16,16 +16,17 @@ The report is designed for executive stakeholders, category managers, and operat
 
 ### 1. Executive Sales Overview
 > *Tracks high-level KPIs with YoY growth sparklines, regional revenue share, monthly seasonality, and category-level order cancellation rates.*
-![Executive Overview]<img width="2075" height="1200" alt="amazon sales_page-0001" src="https://github.com/user-attachments/assets/84258b20-ab49-4917-9f0f-00dd1915003e" />
+<img width="2075" height="1200" alt="amazon sales_page-0001" src="https://github.com/user-attachments/assets/84258b20-ab49-4917-9f0f-00dd1915003e" />
 
 
 ### 2. Product & Brand Performance
 > *Analyzes top revenue-generating brands, SKU order velocity, and the relationship between promotional discount rates and sales quantity.*
-![Product Performance](assets/page2_product_performance.png)
+<img width="2075" height="1200" alt="amazon sales_page-0002" src="https://github.com/user-attachments/assets/d817f9a0-aa4f-4f80-b07d-8b32d5d214dc" />
+
 
 ### 3. Geographical Insights & Market Health
 > *Maps global revenue distribution, cross-country category demand, state-level cancellation rates, and international customer growth velocity.*
-![Geographical Insights](assets/page3_geographical_insights.png)
+<img width="2075" height="1200" alt="amazon sales_page-0003" src="https://github.com/user-attachments/assets/005ee915-db9a-4e68-ae5a-4f39dce5b51f" />
 
 
 ---
