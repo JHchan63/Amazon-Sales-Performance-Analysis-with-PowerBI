@@ -44,7 +44,7 @@ To support data-driven commercial and operational decisions, this dashboard answ
 ## 📈 Key Insights & Findings
 
 ### 1. Executive Summary & Growth Dynamics
-* **Strong Multi-Year Volume & Top-Line Growth:** Generated **$91.83M** in cumulative total sales across the 2020–2024 period, closing with a **+24.66% YoY** annual sales growth rate. Overall fulfillment reached **100,000 total orders** (**+24.80% YoY**) and **300,140 total units sold** (**+24.77% YoY**).
+* **Strong Multi-Year Volume & Top-Line Growth:** Generated **$91.83M** in cumulative total sales across the 2020–2024 period, closing with a (**+24.66% YoY**) annual sales growth rate. Overall fulfillment reached **100,000 total orders** (**+24.80% YoY**) and **300,140 total units sold** (**+24.77% YoY**).
 * **Retention-Driven Order Velocity:** The platform engaged **43,233 unique customers** over the 5-year span, with customer acquisition growing at **+8.16% YoY**. Because order growth (+24.80% YoY) significantly outpaced unique customer growth, revenue momentum is primarily fueled by **repeat customer purchase frequency** and strong user retention.
 * **Stable Basket Size Across 5 Years:** Average Order Value (AOV) across all historical transactions held remarkably steady at **$918.26**, showing virtually zero pricing erosion (**-0.11% YoY**) and reflecting strong long-term pricing power.
 * **Monthly Seasonality:** Across the 5-year timeline, order volumes experience a recurring seasonal contraction in **February** (~6.8K orders) before rebounding in March and sustaining peak activity in **January, May, and August**.
