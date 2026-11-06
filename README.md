@@ -91,11 +91,51 @@ To support data-driven commercial and operational decisions, this dashboard answ
 
 ---
 
+## 🗂️ Data Source & Acknowledgements
+
+The data utilized in this project is an open-source dataset sourced from **Kaggle**:
+
+* **Dataset:** [Amazon Sales Dataset](https://www.kaggle.com/datasets/rohiteng/amazon-sales-dataset)
+* **Dataset Owner / Creator:** [Rohit kumar](https://www.kaggle.com/rohiteng)
+* **Platform:** Kaggle
+* **Timeframe Covered:** 2020 – 2024
+* **Scope:** 100,000 multi-regional transaction records across 6 major product categories.
+
+> **Disclaimer & Attribution:** Special thanks to **Rohit kumar** for making this dataset publicly available on Kaggle. This data is utilized strictly for educational, portfolio demonstration, and data modeling purposes. All company names and trademarks (Amazon) belong to their respective owners.
+
+---
+
 ## 📂 Repository Structure
 ```text
-├── assets/                          # High-resolution dashboard screenshots
-├── data/                            # Source dataset (Kaggle Amazon Sales Dataset)
-├── Amazon_Sales_Dashboard.pbix      # Power BI Desktop report file
-├── amazon_sales_dashboard.pdf       # Static PDF export of the 3-page report
+├── assets/
+│   ├── page1_overview.jpg           # Executive Sales Overview screenshot
+│   ├── page2_product.jpg            # Product Performance screenshot
+│   └── page3_geography.jpg          # Geographical Insights screenshot
+├── Dataset/
+│   └── Amazon_Sales_Data.xlsx       # Sourced Kaggle dataset
+├── Amazon_Sales_Dashboard.pbix      # Interactive Power BI report file
+├── Amazon sales.pdf                 # 3-page static report export
 ├── LICENSE                          # MIT License
-└── README.md                        # Project documentation and findings
+└── README.md                        # Documentation and project insights
+```
+
+---
+
+## 🚀 How to Use
+
+### Option 1: Quick View (No Software Required)
+* Open the [`Amazon sales.pdf`](Amazon%20sales.pdf) file directly in your browser to view the high-resolution, 3-page static report export.
+
+---
+
+### Option 2: Interactive Exploration via Power BI Desktop
+
+#### Prerequisites
+* [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Free download, Windows only).
+
+#### Getting Started
+1. **Clone or Download the Repository:**
+   ```bash
+   git clone [https://github.com/JHchan63/Amazon-Sales-Performance-Analysis-with-PowerBI.git](https://github.com/JHchan63/Amazon-Sales-Performance-Analysis-with-PowerBI.git)
+
+
