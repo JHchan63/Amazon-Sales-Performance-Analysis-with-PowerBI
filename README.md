@@ -44,16 +44,16 @@ To support data-driven commercial and operational decisions, this dashboard answ
 ## 📈 Key Insights & Findings
 
 ### 1. Executive Summary & Growth Dynamics
-* **Strong Top-Line Momentum:** Generated **$91.83M** in total sales (**+24.66% YoY**) across **100,000 orders** (**+24.80% YoY**) and **300,140 units sold** (**+24.77% YoY**).
-* **Retention-Driven Order Growth:** Total active customers reached **43,233** (**+8.16% YoY**). Because order volume grew at triple the rate of new customer acquisition, top-line expansion is heavily fueled by **repeat customer purchase frequency**.
-* **Stable Basket Size:** Average Order Value (AOV) remained virtually unchanged at **$918.26** (**-0.11% YoY**), showing consistent pricing power across all 5 years.
-* **Monthly Seasonality:** Sales and order volumes experience a pronounced seasonal dip in **February** (~6.8K orders) before recovering in March and reaching peak levels in **January, May, and August**.
+* **Strong Multi-Year Volume & Top-Line Growth:** Generated **$91.83M** in cumulative total sales across the 2020–2024 period, closing with a **+24.66% YoY** annual sales growth rate. Overall fulfillment reached **100,000 total orders** (**+24.80% YoY**) and **300,140 total units sold** (**+24.77% YoY**).
+* **Retention-Driven Order Velocity:** The platform engaged **43,233 unique customers** over the 5-year span, with customer acquisition growing at **+8.16% YoY**. Because order growth (+24.80% YoY) significantly outpaced unique customer growth, revenue momentum is primarily fueled by **repeat customer purchase frequency** and strong user retention.
+* **Stable Basket Size Across 5 Years:** Average Order Value (AOV) across all historical transactions held remarkably steady at **$918.26**, showing virtually zero pricing erosion (**-0.11% YoY**) and reflecting strong long-term pricing power.
+* **Monthly Seasonality:** Across the 5-year timeline, order volumes experience a recurring seasonal contraction in **February** (~6.8K orders) before rebounding in March and sustaining peak activity in **January, May, and August**.
 
 ### 2. Category, Brand & Product Performance
-* **Co-Leading Categories:** **Electronics** (**$20.18M** | 65,925 units) and **Toys & Games** (**$20.14M** | 65,781 units) lead the portfolio, jointly contributing **43.9%** of total revenue, followed by **Books** (**$16.68M**).
-* **Brand Concentration:** The top 5 brands—**KiddoFun** ($14.7M), **HomeEase** ($14.6M), **UrbanStyle** ($12.9M), **ReadMore** ($12.9M), and **Apex** ($7.4M)—account for **$62.5M** (~68% of total sales).
-* **Top-Selling SKUs:** High-frequency utility items lead individual product orders, topped by **LED Desk Lamp**, **Water Bottle**, **Cookware Set**, **Electric Kettle**, and **Router**.
-* **Consistent Discounting:** Average discount rates remain tightly bounded between **7.30%** (*Home & Kitchen*) and **7.49%** (*Electronics*), with a portfolio average of **7.42%**. Category sales variance is driven by organic demand rather than heavy discounting.
+* **Co-Leading Categories:** **Electronics** (**$20.18M** | 65,925 units) and **Toys & Games** (**$20.14M** | 65,781 units) serve as the dual revenue engines, jointly contributing **43.9%** of cumulative 5-year revenue, followed closely by **Books** (**$16.68M**).
+* **Brand Concentration:** The top 5 brands—**KiddoFun** ($14.7M), **HomeEase** ($14.6M), **UrbanStyle** ($12.9M), **ReadMore** ($12.9M), and **Apex** ($7.4M)—account for **$62.5M** (~68% of total cumulative sales).
+* **Top-Selling SKUs:** High-utility consumer goods lead historical transaction frequency, topped by **LED Desk Lamp**, **Water Bottle**, **Cookware Set**, **Electric Kettle**, and **Router**.
+* **Disciplined Discounting Strategy:** Average discount rates across all categories remain tightly controlled between **7.30%** (*Home & Kitchen*) and **7.49%** (*Electronics*), averaging **7.42%** overall. Category performance differences are driven by organic demand rather than aggressive promotional discounting.
 
 ### 3. Geographical & Operational Health
 | Country | Total Sales | Revenue Share | Total Orders | AOV | Total Customers | YoY Customer Growth % |
